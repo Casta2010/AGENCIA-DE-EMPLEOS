@@ -1,0 +1,109 @@
+body{
+	background:#1EB0D7;
+	font-family:Tahoma;
+	font-size:llpx;
+	width:1200px;
+	margin:auto;
+}
+#logo{
+	background:url(../img/logo.png)no-repeat right;
+	margin:0 0px;
+	background-size:60%;
+	padding:25em 0em 5em 0em;
+	text-transform:uppercase;
+}
+#logo h1 a{
+	margin:0em;
+	padding:0;
+	letter-spacing:-.lem;
+	text-decoration:none;
+	font-size:2em;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+#subtitulo{
+	fsubtitulo
+padding:0em;
+margin-top:-1em:;
+font-size: 1.5em;
+color:#BDF2FF;
+}
+#menu li {
+	display:inline-block;
+	margin-top:-2em;
+}
+#menu a {
+	display:block;
+	float:left;
+	margin-right:0.12em;
+	padding:1em 1.5em;
+	background:#178EAE;
+	box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.25);
+	text-decoration:none;
+	text-shadow:1px 1px 0px #0C749C;
+	text-transform:uppercase;
+	font-size:.90em;
+	color:#FFFFFF;
+}
+#seccion{
+	width:1150px;
+	padding:0px 10px;
+	background:#FFF;
+	height:270px;
+}
+#seccionServicios{
+	width:1150px;
+	padding:20px 40px;
+	background:#FFF;
+	height:280px;
+}
+#imagen{
+	margin:0px;
+	width:380px;
+	height:200px;
+	text-align:center;
+}
+#subtitulo2{
+	font-family:Tahoma,Geneva, sans-serif;
+	font-size:24px;
+	color:#039;
+}
+#ladoderecho{
+	margin:-5px 20px 0px 0px;
+	float:right;
+	width: 65%;
+	text-align:justify;
+	color:#666;
+}
+#pie{
+	text-align:center;
+}
+#p{
+	font-family:Tahoma;
+	font-size:11pt;
+}
+#ladoizquierdo{
+	margin:-5px 20px 0px 0px;
+	float:left;
+	width: 65%;
+	font-size: 11px;
+	text-align:justify;
+	color:#666;
+}
+#columna{
+	margin:-5px 20px 0px 0px;
+	float:left;
+	width: 30%;
+	color:#666;
+}
+#seccionextensa{
+	width:1050px;
+	padding:20px 40px;
+	background:#FFF;
+	height:auto;
+}
+#centrado{
+	text-align:center;
+}
+#lista li {
+	font-size:11px;
